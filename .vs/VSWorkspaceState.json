@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\HTML_Files",
-    "\\HTML_Files\\Life",
-    "\\HTML_Files\\Life\\Menu",
-    "\\HTML_Files\\Life\\Menu\\Beef",
-    "\\HTML_Files\\Life\\Menu\\Chicken",
-    "\\HTML_Files\\Life\\Menu\\Fish_Seafood",
-    "\\HTML_Files\\Life\\Menu\\Lamb",
-    "\\HTML_Files\\Life\\Menu\\Noodle",
-    "\\HTML_Files\\Life\\Menu\\Vegetable"
+    "\\HTML_Files\\Cold_Knowledge",
+    "\\HTML_Files\\Lyrics",
+    "\\HTML_Files\\Menu",
+    "\\HTML_Files\\Menu\\Beef",
+    "\\HTML_Files\\Menu\\Chicken",
+    "\\HTML_Files\\Menu\\Fish_Seafood",
+    "\\HTML_Files\\Menu\\Rice_Noodle",
+    "\\HTML_Files\\Menu\\Soup"
   ],
-  "SelectedNode": "\\HTML_Files\\Life\\Menu\\Vegetable.html",
+  "SelectedNode": "\\HTML_Files\\Menu\\Pork.html",
   "PreviewInSolutionExplorer": false
 }
