@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\HTML_Files",
-    "\\HTML_Files\\Cold_Knowledge",
     "\\HTML_Files\\Lyrics",
     "\\HTML_Files\\Menu",
+    "\\HTML_Files\\Menu\\Barbecue",
     "\\HTML_Files\\Menu\\Beef",
     "\\HTML_Files\\Menu\\Chicken",
     "\\HTML_Files\\Menu\\Fish_Seafood",
     "\\HTML_Files\\Menu\\Rice_Noodle",
     "\\HTML_Files\\Menu\\Soup"
   ],
-  "SelectedNode": "\\HTML_Files\\Menu\\Fish_Seafood\\Fried_Shrimp.html",
+  "SelectedNode": "\\HTML_Files\\Menu\\Barbecue\\BeefRibs.html",
   "PreviewInSolutionExplorer": false
 }
