@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\HTML_Files",
-    "\\HTML_Files\\Lyrics",
     "\\HTML_Files\\Menu",
     "\\HTML_Files\\Menu\\Barbecue",
     "\\HTML_Files\\Menu\\Beef",
     "\\HTML_Files\\Menu\\Chicken",
     "\\HTML_Files\\Menu\\Dessert",
-    "\\HTML_Files\\Menu\\Fish_Seafood"
+    "\\HTML_Files\\Menu\\Fish_Seafood",
+    "\\HTML_Files\\Menu\\Pork",
+    "\\HTML_Files\\Menu\\Tofu"
   ],
-  "SelectedNode": "\\HTML_Files\\Airline.html",
+  "SelectedNode": "\\HTML_Files\\Menu\\Tofu\\Tomato_Tofu.html",
   "PreviewInSolutionExplorer": false
 }
