@@ -3,14 +3,13 @@
     "",
     "\\HTML_Files",
     "\\HTML_Files\\Menu",
-    "\\HTML_Files\\Menu\\Barbecue",
     "\\HTML_Files\\Menu\\Beef",
     "\\HTML_Files\\Menu\\Chicken",
     "\\HTML_Files\\Menu\\Dessert",
     "\\HTML_Files\\Menu\\Fish_Seafood",
     "\\HTML_Files\\Menu\\Pork",
-    "\\HTML_Files\\Menu\\Tofu"
+    "\\HTML_Files\\Menu\\Vegetable"
   ],
-  "SelectedNode": "\\HTML_Files\\Menu\\Tofu\\Tomato_Tofu.html",
+  "SelectedNode": "\\HTML_Files\\Menu\\Chicken\\JueJue_Chicken.html",
   "PreviewInSolutionExplorer": false
 }
